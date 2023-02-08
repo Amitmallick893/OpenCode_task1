@@ -1,0 +1,17 @@
+1. Explain very briefly the difference between git and github.
+Ans.  1) Git is a software whereas Github is a service.
+     2) Linux maintains git and microsoft maintains github.
+     3) Git focuses on code sharing and version control whereas github focuses on centralized source and code hosting.
+     4) Git interacts using the command line whereas Github is hosted in the cloud or via web.
+ 2) Explain very briefly any 5 basic git commands?
+ Ans-1) git init- This command is used to initialize a Git repository for our local project folder.
+     2) git add- This command adds the specified file into the git repository,the staging area ,where they are already being tracked by git and now ready to be commited.
+     3) git status- This command shows the present modified status of a file and the addition status of a new file .
+     4) git commit- this command snapshots files permanently in the version history.
+     5) git clone-this command clone an existing git repository
+
+Ques 3) How to make a pull request?
+ Ans- 1)From the open repository in the github ,select the Create button and select Pull Request in the This repository section of the dropdown menu.
+     2) Fill out the rest of the pull request form.
+     3) click on create pull request.
+    
